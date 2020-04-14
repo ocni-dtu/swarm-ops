@@ -6,4 +6,4 @@ import pytest
 
 @pytest.fixture
 def repo_updates():
-    pass
+    yield r'C:\Users\ocni\PycharmProjects\swarm-ops'

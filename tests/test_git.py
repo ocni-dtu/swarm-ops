@@ -1,3 +1,5 @@
+from src.git import check_for_updates
+
 __author__ = "Christian Kongsgaard"
 __license__ = 'MIT'
 
